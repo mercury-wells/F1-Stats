@@ -1,0 +1,261 @@
+Race,Date,Car,Race Position,PTS,Driver,Total PTS
+Bahrain,2022-03-20,Williams Mercedes,13,0,Alexander Albon,0
+Saudi Arabia,2022-03-27,Williams Mercedes,20,0,Alexander Albon,0
+Australia,2022-04-10,Williams Mercedes,10,1,Alexander Albon,1
+Emilia Romagna,2022-04-24,Williams Mercedes,11,0,Alexander Albon,1
+Miami,2022-05-08,Williams Mercedes,9,2,Alexander Albon,3
+Spain,2022-05-22,Williams Mercedes,18,0,Alexander Albon,3
+Monaco,2022-05-29,Williams Mercedes,20,0,Alexander Albon,3
+Azerbaijan,2022-06-12,Williams Mercedes,12,0,Alexander Albon,3
+Canada,2022-06-19,Williams Mercedes,13,0,Alexander Albon,3
+Great Britain,2022-07-03,Williams Mercedes,20,0,Alexander Albon,3
+Austria,2022-07-10,Williams Mercedes,12,0,Alexander Albon,3
+France,2022-07-24,Williams Mercedes,13,0,Alexander Albon,3
+Hungary,2022-07-31,Williams Mercedes,17,0,Alexander Albon,3
+Bahrain,2022-03-20,Alpine Renault,9,2,Fernando Alonso,2
+Saudi Arabia,2022-03-27,Alpine Renault,20,0,Fernando Alonso,2
+Australia,2022-04-10,Alpine Renault,17,0,Fernando Alonso,2
+Emilia Romagna,2022-04-24,Alpine Renault,20,0,Fernando Alonso,2
+Miami,2022-05-08,Alpine Renault,11,0,Fernando Alonso,2
+Spain,2022-05-22,Alpine Renault,9,2,Fernando Alonso,4
+Monaco,2022-05-29,Alpine Renault,7,6,Fernando Alonso,10
+Azerbaijan,2022-06-12,Alpine Renault,7,6,Fernando Alonso,16
+Canada,2022-06-19,Alpine Renault,9,2,Fernando Alonso,18
+Great Britain,2022-07-03,Alpine Renault,5,10,Fernando Alonso,28
+Austria,2022-07-10,Alpine Renault,10,1,Fernando Alonso,29
+France,2022-07-24,Alpine Renault,6,8,Fernando Alonso,37
+Hungary,2022-07-31,Alpine Renault,8,4,Fernando Alonso,41
+Bahrain,2022-03-20,Alfa Romeo Ferrari,6,8,Valtteri Bottas,8
+Saudi Arabia,2022-03-27,Alfa Romeo Ferrari,20,0,Valtteri Bottas,8
+Australia,2022-04-10,Alfa Romeo Ferrari,8,4,Valtteri Bottas,12
+Emilia Romagna,2022-04-24,Alfa Romeo Ferrari,5,12,Valtteri Bottas,24
+Miami,2022-05-08,Alfa Romeo Ferrari,7,6,Valtteri Bottas,30
+Spain,2022-05-22,Alfa Romeo Ferrari,6,8,Valtteri Bottas,38
+Monaco,2022-05-29,Alfa Romeo Ferrari,9,2,Valtteri Bottas,40
+Azerbaijan,2022-06-12,Alfa Romeo Ferrari,11,0,Valtteri Bottas,40
+Canada,2022-06-19,Alfa Romeo Ferrari,7,6,Valtteri Bottas,46
+Great Britain,2022-07-03,Alfa Romeo Ferrari,20,0,Valtteri Bottas,46
+Austria,2022-07-10,Alfa Romeo Ferrari,11,0,Valtteri Bottas,46
+France,2022-07-24,Alfa Romeo Ferrari,14,0,Valtteri Bottas,46
+Hungary,2022-07-31,Alfa Romeo Ferrari,20,0,Valtteri Bottas,46
+Bahrain,2022-03-20,AlphaTauri RBPT,20,0,Pierre Gasly,0
+Saudi Arabia,2022-03-27,AlphaTauri RBPT,8,4,Pierre Gasly,4
+Australia,2022-04-10,AlphaTauri RBPT,9,2,Pierre Gasly,6
+Emilia Romagna,2022-04-24,AlphaTauri RBPT,12,0,Pierre Gasly,6
+Miami,2022-05-08,AlphaTauri RBPT,20,0,Pierre Gasly,6
+Spain,2022-05-22,AlphaTauri RBPT,13,0,Pierre Gasly,6
+Monaco,2022-05-29,AlphaTauri RBPT,11,0,Pierre Gasly,6
+Azerbaijan,2022-06-12,AlphaTauri RBPT,5,10,Pierre Gasly,16
+Canada,2022-06-19,AlphaTauri RBPT,14,0,Pierre Gasly,16
+Great Britain,2022-07-03,AlphaTauri RBPT,20,0,Pierre Gasly,16
+Austria,2022-07-10,AlphaTauri RBPT,15,0,Pierre Gasly,16
+France,2022-07-24,AlphaTauri RBPT,12,0,Pierre Gasly,16
+Hungary,2022-07-31,AlphaTauri RBPT,12,0,Pierre Gasly,16
+Bahrain,2022-03-20,Mercedes,3,15,Lewis Hamilton,15
+Saudi Arabia,2022-03-27,Mercedes,10,1,Lewis Hamilton,16
+Australia,2022-04-10,Mercedes,4,12,Lewis Hamilton,28
+Emilia Romagna,2022-04-24,Mercedes,13,0,Lewis Hamilton,28
+Miami,2022-05-08,Mercedes,6,8,Lewis Hamilton,36
+Spain,2022-05-22,Mercedes,5,10,Lewis Hamilton,46
+Monaco,2022-05-29,Mercedes,8,4,Lewis Hamilton,50
+Azerbaijan,2022-06-12,Mercedes,4,12,Lewis Hamilton,62
+Canada,2022-06-19,Mercedes,3,15,Lewis Hamilton,77
+Great Britain,2022-07-03,Mercedes,3,16,Lewis Hamilton,93
+Austria,2022-07-10,Mercedes,3,16,Lewis Hamilton,109
+France,2022-07-24,Mercedes,2,18,Lewis Hamilton,127
+Hungary,2022-07-31,Mercedes,2,19,Lewis Hamilton,146
+Bahrain,2022-03-20,Aston Martin Aramco Mercedes,17,0,Nico Hulkenberg,0
+Saudi Arabia,2022-03-27,Aston Martin Aramco Mercedes,12,0,Nico Hulkenberg,0
+Bahrain,2022-03-20,Ferrari,1,26,Charles Leclerc,26
+Saudi Arabia,2022-03-27,Ferrari,2,19,Charles Leclerc,45
+Australia,2022-04-10,Ferrari,1,26,Charles Leclerc,71
+Emilia Romagna,2022-04-24,Ferrari,6,15,Charles Leclerc,86
+Miami,2022-05-08,Ferrari,2,18,Charles Leclerc,104
+Spain,2022-05-22,Ferrari,20,0,Charles Leclerc,104
+Monaco,2022-05-29,Ferrari,4,12,Charles Leclerc,116
+Azerbaijan,2022-06-12,Ferrari,20,0,Charles Leclerc,116
+Canada,2022-06-19,Ferrari,5,10,Charles Leclerc,126
+Great Britain,2022-07-03,Ferrari,4,12,Charles Leclerc,138
+Austria,2022-07-10,Ferrari,1,32,Charles Leclerc,170
+France,2022-07-24,Ferrari,20,0,Charles Leclerc,170
+Hungary,2022-07-31,Ferrari,6,8,Charles Leclerc,178
+Bahrain,2022-03-20,Williams Mercedes,16,0,Nicholas Latifi,0
+Saudi Arabia,2022-03-27,Williams Mercedes,20,0,Nicholas Latifi,0
+Australia,2022-04-10,Williams Mercedes,16,0,Nicholas Latifi,0
+Emilia Romagna,2022-04-24,Williams Mercedes,16,0,Nicholas Latifi,0
+Miami,2022-05-08,Williams Mercedes,14,0,Nicholas Latifi,0
+Spain,2022-05-22,Williams Mercedes,16,0,Nicholas Latifi,0
+Monaco,2022-05-29,Williams Mercedes,15,0,Nicholas Latifi,0
+Azerbaijan,2022-06-12,Williams Mercedes,15,0,Nicholas Latifi,0
+Canada,2022-06-19,Williams Mercedes,16,0,Nicholas Latifi,0
+Great Britain,2022-07-03,Williams Mercedes,12,0,Nicholas Latifi,0
+Austria,2022-07-10,Williams Mercedes,20,0,Nicholas Latifi,0
+France,2022-07-24,Williams Mercedes,20,0,Nicholas Latifi,0
+Hungary,2022-07-31,Williams Mercedes,18,0,Nicholas Latifi,0
+Bahrain,2022-03-20,Haas Ferrari,5,10,Kevin Magnussen,10
+Saudi Arabia,2022-03-27,Haas Ferrari,9,2,Kevin Magnussen,12
+Australia,2022-04-10,Haas Ferrari,14,0,Kevin Magnussen,12
+Emilia Romagna,2022-04-24,Haas Ferrari,9,3,Kevin Magnussen,15
+Miami,2022-05-08,Haas Ferrari,20,0,Kevin Magnussen,15
+Spain,2022-05-22,Haas Ferrari,17,0,Kevin Magnussen,15
+Monaco,2022-05-29,Haas Ferrari,20,0,Kevin Magnussen,15
+Azerbaijan,2022-06-12,Haas Ferrari,20,0,Kevin Magnussen,15
+Canada,2022-06-19,Haas Ferrari,17,0,Kevin Magnussen,15
+Great Britain,2022-07-03,Haas Ferrari,10,1,Kevin Magnussen,16
+Austria,2022-07-10,Haas Ferrari,8,6,Kevin Magnussen,22
+France,2022-07-24,Haas Ferrari,20,0,Kevin Magnussen,22
+Hungary,2022-07-31,Haas Ferrari,16,0,Kevin Magnussen,22
+Bahrain,2022-03-20,McLaren Mercedes,15,0,Lando Norris,0
+Saudi Arabia,2022-03-27,McLaren Mercedes,7,6,Lando Norris,6
+Australia,2022-04-10,McLaren Mercedes,5,10,Lando Norris,16
+Emilia Romagna,2022-04-24,McLaren Mercedes,3,19,Lando Norris,35
+Miami,2022-05-08,McLaren Mercedes,20,0,Lando Norris,35
+Spain,2022-05-22,McLaren Mercedes,8,4,Lando Norris,39
+Monaco,2022-05-29,McLaren Mercedes,6,9,Lando Norris,48
+Azerbaijan,2022-06-12,McLaren Mercedes,9,2,Lando Norris,50
+Canada,2022-06-19,McLaren Mercedes,15,0,Lando Norris,50
+Great Britain,2022-07-03,McLaren Mercedes,6,8,Lando Norris,58
+Austria,2022-07-10,McLaren Mercedes,7,6,Lando Norris,64
+France,2022-07-24,McLaren Mercedes,7,6,Lando Norris,70
+Hungary,2022-07-31,McLaren Mercedes,7,6,Lando Norris,76
+Bahrain,2022-03-20,Alpine Renault,7,6,Esteban Ocon,6
+Saudi Arabia,2022-03-27,Alpine Renault,6,8,Esteban Ocon,14
+Australia,2022-04-10,Alpine Renault,7,6,Esteban Ocon,20
+Emilia Romagna,2022-04-24,Alpine Renault,14,0,Esteban Ocon,20
+Miami,2022-05-08,Alpine Renault,8,4,Esteban Ocon,24
+Spain,2022-05-22,Alpine Renault,7,6,Esteban Ocon,30
+Monaco,2022-05-29,Alpine Renault,12,0,Esteban Ocon,30
+Azerbaijan,2022-06-12,Alpine Renault,10,1,Esteban Ocon,31
+Canada,2022-06-19,Alpine Renault,6,8,Esteban Ocon,39
+Great Britain,2022-07-03,Alpine Renault,20,0,Esteban Ocon,39
+Austria,2022-07-10,Alpine Renault,5,13,Esteban Ocon,52
+France,2022-07-24,Alpine Renault,8,4,Esteban Ocon,56
+Hungary,2022-07-31,Alpine Renault,9,2,Esteban Ocon,58
+Bahrain,2022-03-20,Red Bull Racing RBPT,20,0,Sergio Perez,0
+Saudi Arabia,2022-03-27,Red Bull Racing RBPT,4,12,Sergio Perez,12
+Australia,2022-04-10,Red Bull Racing RBPT,2,18,Sergio Perez,30
+Emilia Romagna,2022-04-24,Red Bull Racing RBPT,2,24,Sergio Perez,54
+Miami,2022-05-08,Red Bull Racing RBPT,4,12,Sergio Perez,66
+Spain,2022-05-22,Red Bull Racing RBPT,2,19,Sergio Perez,85
+Monaco,2022-05-29,Red Bull Racing RBPT,1,25,Sergio Perez,110
+Azerbaijan,2022-06-12,Red Bull Racing RBPT,2,19,Sergio Perez,129
+Canada,2022-06-19,Red Bull Racing RBPT,20,0,Sergio Perez,129
+Great Britain,2022-07-03,Red Bull Racing RBPT,2,18,Sergio Perez,147
+Austria,2022-07-10,Red Bull Racing RBPT,20,4,Sergio Perez,151
+France,2022-07-24,Red Bull Racing RBPT,4,12,Sergio Perez,163
+Hungary,2022-07-31,Red Bull Racing RBPT,5,10,Sergio Perez,173
+Bahrain,2022-03-20,McLaren Mercedes,14,0,Daniel Ricciardo,0
+Saudi Arabia,2022-03-27,McLaren Mercedes,20,0,Daniel Ricciardo,0
+Australia,2022-04-10,McLaren Mercedes,6,8,Daniel Ricciardo,8
+Emilia Romagna,2022-04-24,McLaren Mercedes,18,3,Daniel Ricciardo,11
+Miami,2022-05-08,McLaren Mercedes,13,0,Daniel Ricciardo,11
+Spain,2022-05-22,McLaren Mercedes,12,0,Daniel Ricciardo,11
+Monaco,2022-05-29,McLaren Mercedes,13,0,Daniel Ricciardo,11
+Azerbaijan,2022-06-12,McLaren Mercedes,8,4,Daniel Ricciardo,15
+Canada,2022-06-19,McLaren Mercedes,11,0,Daniel Ricciardo,15
+Great Britain,2022-07-03,McLaren Mercedes,13,0,Daniel Ricciardo,15
+Austria,2022-07-10,McLaren Mercedes,9,2,Daniel Ricciardo,17
+France,2022-07-24,McLaren Mercedes,9,2,Daniel Ricciardo,19
+Hungary,2022-07-31,McLaren Mercedes,15,0,Daniel Ricciardo,19
+Bahrain,2022-03-20,Mercedes,4,12,George Russell,12
+Saudi Arabia,2022-03-27,Mercedes,5,10,George Russell,22
+Australia,2022-04-10,Mercedes,3,15,George Russell,37
+Emilia Romagna,2022-04-24,Mercedes,4,12,George Russell,49
+Miami,2022-05-08,Mercedes,5,10,George Russell,59
+Spain,2022-05-22,Mercedes,3,15,George Russell,74
+Monaco,2022-05-29,Mercedes,5,10,George Russell,84
+Azerbaijan,2022-06-12,Mercedes,3,15,George Russell,99
+Canada,2022-06-19,Mercedes,4,12,George Russell,111
+Great Britain,2022-07-03,Mercedes,20,0,George Russell,111
+Austria,2022-07-10,Mercedes,4,17,George Russell,128
+France,2022-07-24,Mercedes,3,15,George Russell,143
+Hungary,2022-07-31,Mercedes,3,15,George Russell,158
+Bahrain,2022-03-20,Ferrari,2,18,Carlos Sainz,18
+Saudi Arabia,2022-03-27,Ferrari,3,15,Carlos Sainz,33
+Australia,2022-04-10,Ferrari,20,0,Carlos Sainz,33
+Emilia Romagna,2022-04-24,Ferrari,20,5,Carlos Sainz,38
+Miami,2022-05-08,Ferrari,3,15,Carlos Sainz,53
+Spain,2022-05-22,Ferrari,4,12,Carlos Sainz,65
+Monaco,2022-05-29,Ferrari,2,18,Carlos Sainz,83
+Azerbaijan,2022-06-12,Ferrari,20,0,Carlos Sainz,83
+Canada,2022-06-19,Ferrari,2,19,Carlos Sainz,102
+Great Britain,2022-07-03,Ferrari,1,25,Carlos Sainz,127
+Austria,2022-07-10,Ferrari,20,6,Carlos Sainz,133
+France,2022-07-24,Ferrari,5,11,Carlos Sainz,144
+Hungary,2022-07-31,Ferrari,4,12,Carlos Sainz,156
+Bahrain,2022-03-20,Haas Ferrari,11,0,Mick Schumacher,0
+Saudi Arabia,2022-03-27,Haas Ferrari,DNS,0,Mick Schumacher,0
+Australia,2022-04-10,Haas Ferrari,13,0,Mick Schumacher,0
+Emilia Romagna,2022-04-24,Haas Ferrari,17,0,Mick Schumacher,0
+Miami,2022-05-08,Haas Ferrari,15,0,Mick Schumacher,0
+Spain,2022-05-22,Haas Ferrari,14,0,Mick Schumacher,0
+Monaco,2022-05-29,Haas Ferrari,20,0,Mick Schumacher,0
+Azerbaijan,2022-06-12,Haas Ferrari,14,0,Mick Schumacher,0
+Canada,2022-06-19,Haas Ferrari,20,0,Mick Schumacher,0
+Great Britain,2022-07-03,Haas Ferrari,8,4,Mick Schumacher,4
+Austria,2022-07-10,Haas Ferrari,6,8,Mick Schumacher,12
+France,2022-07-24,Haas Ferrari,15,0,Mick Schumacher,12
+Hungary,2022-07-31,Haas Ferrari,14,0,Mick Schumacher,12
+Bahrain,2022-03-20,Aston Martin Aramco Mercedes,12,0,Lance Stroll,0
+Saudi Arabia,2022-03-27,Aston Martin Aramco Mercedes,13,0,Lance Stroll,0
+Australia,2022-04-10,Aston Martin Aramco Mercedes,12,0,Lance Stroll,0
+Emilia Romagna,2022-04-24,Aston Martin Aramco Mercedes,10,1,Lance Stroll,1
+Miami,2022-05-08,Aston Martin Aramco Mercedes,10,1,Lance Stroll,2
+Spain,2022-05-22,Aston Martin Aramco Mercedes,15,0,Lance Stroll,2
+Monaco,2022-05-29,Aston Martin Aramco Mercedes,14,0,Lance Stroll,2
+Azerbaijan,2022-06-12,Aston Martin Aramco Mercedes,20,0,Lance Stroll,2
+Canada,2022-06-19,Aston Martin Aramco Mercedes,10,1,Lance Stroll,3
+Great Britain,2022-07-03,Aston Martin Aramco Mercedes,11,0,Lance Stroll,3
+Austria,2022-07-10,Aston Martin Aramco Mercedes,13,0,Lance Stroll,3
+France,2022-07-24,Aston Martin Aramco Mercedes,10,1,Lance Stroll,4
+Hungary,2022-07-31,Aston Martin Aramco Mercedes,11,0,Lance Stroll,4
+Bahrain,2022-03-20,AlphaTauri RBPT,8,4,Yuki Tsunoda,4
+Saudi Arabia,2022-03-27,AlphaTauri RBPT,DNS,0,Yuki Tsunoda,4
+Australia,2022-04-10,AlphaTauri RBPT,15,0,Yuki Tsunoda,4
+Emilia Romagna,2022-04-24,AlphaTauri RBPT,7,6,Yuki Tsunoda,10
+Miami,2022-05-08,AlphaTauri RBPT,12,0,Yuki Tsunoda,10
+Spain,2022-05-22,AlphaTauri RBPT,10,1,Yuki Tsunoda,11
+Monaco,2022-05-29,AlphaTauri RBPT,17,0,Yuki Tsunoda,11
+Azerbaijan,2022-06-12,AlphaTauri RBPT,13,0,Yuki Tsunoda,11
+Canada,2022-06-19,AlphaTauri RBPT,20,0,Yuki Tsunoda,11
+Great Britain,2022-07-03,AlphaTauri RBPT,14,0,Yuki Tsunoda,11
+Austria,2022-07-10,AlphaTauri RBPT,16,0,Yuki Tsunoda,11
+France,2022-07-24,AlphaTauri RBPT,20,0,Yuki Tsunoda,11
+Hungary,2022-07-31,AlphaTauri RBPT,19,0,Yuki Tsunoda,11
+Bahrain,2022-03-20,Red Bull Racing RBPT,20,0,Max Verstappen,0
+Saudi Arabia,2022-03-27,Red Bull Racing RBPT,1,25,Max Verstappen,25
+Australia,2022-04-10,Red Bull Racing RBPT,20,0,Max Verstappen,25
+Emilia Romagna,2022-04-24,Red Bull Racing RBPT,1,34,Max Verstappen,59
+Miami,2022-05-08,Red Bull Racing RBPT,1,26,Max Verstappen,85
+Spain,2022-05-22,Red Bull Racing RBPT,1,25,Max Verstappen,110
+Monaco,2022-05-29,Red Bull Racing RBPT,3,15,Max Verstappen,125
+Azerbaijan,2022-06-12,Red Bull Racing RBPT,1,25,Max Verstappen,150
+Canada,2022-06-19,Red Bull Racing RBPT,1,25,Max Verstappen,175
+Great Britain,2022-07-03,Red Bull Racing RBPT,7,6,Max Verstappen,181
+Austria,2022-07-10,Red Bull Racing RBPT,2,27,Max Verstappen,208
+France,2022-07-24,Red Bull Racing RBPT,1,25,Max Verstappen,233
+Hungary,2022-07-31,Red Bull Racing RBPT,1,25,Max Verstappen,258
+Australia,2022-04-10,Aston Martin Aramco Mercedes,20,0,Sebastian Vettel,0
+Emilia Romagna,2022-04-24,Aston Martin Aramco Mercedes,8,4,Sebastian Vettel,4
+Miami,2022-05-08,Aston Martin Aramco Mercedes,20,0,Sebastian Vettel,4
+Spain,2022-05-22,Aston Martin Aramco Mercedes,11,0,Sebastian Vettel,4
+Monaco,2022-05-29,Aston Martin Aramco Mercedes,10,1,Sebastian Vettel,5
+Azerbaijan,2022-06-12,Aston Martin Aramco Mercedes,6,8,Sebastian Vettel,13
+Canada,2022-06-19,Aston Martin Aramco Mercedes,12,0,Sebastian Vettel,13
+Great Britain,2022-07-03,Aston Martin Aramco Mercedes,9,2,Sebastian Vettel,15
+Austria,2022-07-10,Aston Martin Aramco Mercedes,17,0,Sebastian Vettel,15
+France,2022-07-24,Aston Martin Aramco Mercedes,11,0,Sebastian Vettel,15
+Hungary,2022-07-31,Aston Martin Aramco Mercedes,10,1,Sebastian Vettel,16
+Bahrain,2022-03-20,Alfa Romeo Ferrari,10,1,Guanyu Zhou,1
+Saudi Arabia,2022-03-27,Alfa Romeo Ferrari,11,0,Guanyu Zhou,1
+Australia,2022-04-10,Alfa Romeo Ferrari,11,0,Guanyu Zhou,1
+Emilia Romagna,2022-04-24,Alfa Romeo Ferrari,15,0,Guanyu Zhou,1
+Miami,2022-05-08,Alfa Romeo Ferrari,20,0,Guanyu Zhou,1
+Spain,2022-05-22,Alfa Romeo Ferrari,20,0,Guanyu Zhou,1
+Monaco,2022-05-29,Alfa Romeo Ferrari,16,0,Guanyu Zhou,1
+Azerbaijan,2022-06-12,Alfa Romeo Ferrari,20,0,Guanyu Zhou,1
+Canada,2022-06-19,Alfa Romeo Ferrari,8,4,Guanyu Zhou,5
+Great Britain,2022-07-03,Alfa Romeo Ferrari,20,0,Guanyu Zhou,5
+Austria,2022-07-10,Alfa Romeo Ferrari,14,0,Guanyu Zhou,5
+France,2022-07-24,Alfa Romeo Ferrari,16,0,Guanyu Zhou,5
+Hungary,2022-07-31,Alfa Romeo Ferrari,13,0,Guanyu Zhou,5
